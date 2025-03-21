@@ -16,21 +16,21 @@ The dataset used in this study is not publicly available due to data confidentia
 The dataset includes the following key variables:
 1.	Dengue Incidence (Dependent Variable): The total number of monthly dengue cases per sub-district. Data Source: Surveillance records from Puskesmas and the Health Office of the Special Region of Yogyakarta.
 2.	Explanatory Variables (Independent Variables)
-2.1. Climatic Variables (Source: NASA POWER)
-a.	Rainfall (mm) – Total monthly rainfall.
-b.	Rainfall Lag (1, 2, 3 months) – Rainfall in preceding months to account for delayed impacts on mosquito breeding cycles.
-c.	Temperature (°C) – Monthly average temperature.
-d.	Relative Humidity (%) – Monthly average relative humidity.
-e.	Wind Speed (knots) – Monthly average wind speed.
-f.	Atmospheric Pressure (hPa) – Monthly average atmospheric pressure.
-2.2. Sociodemographic Factors (Source: BPS-Statistics Indonesia)
-a.	Population Density (persons/km²) – The total number of residents per square kilometer.
-2.3. Environmental Variables (Source: Sentinel-2 Land Cover Explorer)
-a.	Built Area (Ha) – The total area covered by human-made structures (urban development).
-b.	Crops Area (Ha) – Land designated for agricultural activities.
-c.	Trees Area (Ha) – Land dominated by tree cover and forested regions.
-d.	Water Area (Ha) – Areas covered by water bodies, including rivers and lakes.
-e.	Flooded Vegetation Area (Ha) – Wetlands and periodically inundated landscapes.
+   2.1. Climatic Variables (Source: NASA POWER)
+  	a. Rainfall (mm) – Total monthly rainfall.
+  	b. Rainfall Lag (1, 2, 3 months) – Rainfall in preceding months to account for delayed impacts on mosquito breeding cycles.
+  	c.	Temperature (°C) – Monthly average temperature.
+  	d.	Relative Humidity (%) – Monthly average relative humidity.
+  	e.	Wind Speed (knots) – Monthly average wind speed.
+  	f.	Atmospheric Pressure (hPa) – Monthly average atmospheric pressure.
+  	2.2. Sociodemographic Factors (Source: BPS-Statistics Indonesia)
+  	a.	Population Density (persons/km²) – The total number of residents per square kilometer.
+  	2.3. Environmental Variables (Source: Sentinel-2 Land Cover Explorer)
+  	a.	Built Area (Ha) – The total area covered by human-made structures (urban development).
+  	b.	Crops Area (Ha) – Land designated for agricultural activities.
+  	c.	Trees Area (Ha) – Land dominated by tree cover and forested regions.
+  	d.	Water Area (Ha) – Areas covered by water bodies, including rivers and lakes.
+  	e.	Flooded Vegetation Area (Ha) – Wetlands and periodically inundated landscapes.
 
 # Contact
 For questions or collaborations, please contact:
